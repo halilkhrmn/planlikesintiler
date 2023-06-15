@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "PlanliKesintiler",
+    "slug": "PlanliKesintiler",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
